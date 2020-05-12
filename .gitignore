@@ -1,0 +1,9 @@
+.gitignore
+.backup
+vendor
+gdp-nano(2).sql
+gdp-nano.sql
+gdp-nano (1).sql
+composer.json
+composer.lock
+test
