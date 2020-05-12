@@ -1,0 +1,4 @@
+#php_flag display_errors Off
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.php [L]

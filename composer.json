@@ -1,0 +1,10 @@
+{
+  "name": "reg",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "require": {
+    "xemlock/php-latex": "dev-master"
+  }
+}
